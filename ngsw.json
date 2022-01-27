@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643314819602,
+  "index": "ibf2021-csf-d3-workshop/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "ibf2021-csf-d3-workshop/favicon.ico",
+        "ibf2021-csf-d3-workshop/index.html",
+        "ibf2021-csf-d3-workshop/main.98fab8b705646908.js",
+        "ibf2021-csf-d3-workshop/manifest.webmanifest",
+        "ibf2021-csf-d3-workshop/polyfills.1f7e111f0265f0b2.js",
+        "ibf2021-csf-d3-workshop/runtime.fc535f7c8f0db24a.js",
+        "ibf2021-csf-d3-workshop/styles.3f0597960bc2e56d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "ibf2021-csf-d3-workshop/assets/icons/apple-icon-180.png",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1125-2436.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1136-640.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1170-2532.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1242-2208.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1242-2688.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1284-2778.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1334-750.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1536-2048.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1620-2160.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1668-2224.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1668-2388.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1792-828.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2048-1536.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2048-2732.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2160-1620.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2208-1242.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2224-1668.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2388-1668.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2436-1125.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2532-1170.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2688-1242.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2732-2048.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2778-1284.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-640-1136.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-750-1334.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/apple-splash-828-1792.jpg",
+        "ibf2021-csf-d3-workshop/assets/icons/favicon-196.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-128x128.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-144x144.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-152x152.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-192x192.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-384x384.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-512x512.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-72x72.png",
+        "ibf2021-csf-d3-workshop/assets/icons/icon-96x96.png",
+        "ibf2021-csf-d3-workshop/assets/icons/manifest-icon-192.maskable.png",
+        "ibf2021-csf-d3-workshop/assets/icons/manifest-icon-512.maskable.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "ibf2021-csf-d3-workshop/assets/icons/apple-icon-180.png": "6146ac84daa3c00093dac5cce45f1f0b9261e943",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1125-2436.jpg": "f37038f54f643f9d705fc9bd74f1ce86cdd5436d",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1136-640.jpg": "192b835da9a31a0a41787659bd5f1af339d26a5f",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1170-2532.jpg": "877c16e503b907190d4fba34f6a017df21f3c3ad",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1242-2208.jpg": "00474b7b8c0295ba2be347b56507d17c2252d0fc",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1242-2688.jpg": "c824218d790396fed214f0297f62f0b717e5d24b",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1284-2778.jpg": "752b736d8347434478d12b0fb21b62fd9b03cf09",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1334-750.jpg": "c515202c6fe497d5cdcb6b7c4646a246a04b6db1",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1536-2048.jpg": "8e98ecc9f99d219ee0d1517b2808ee1daec12546",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1620-2160.jpg": "05249a8c79dd93dc73d622ee843bfb438f77630b",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1668-2224.jpg": "fe6b43b117e5e35e696e7fd7b6da4ca0144236ad",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1668-2388.jpg": "4a232a9d9e7f26f5128ac4681e11290fd0a429c8",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-1792-828.jpg": "216a1d8d8a5a5585521e14a91d6e28ea634994e8",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2048-1536.jpg": "0b6b616aaef97a9e6f59ea1ec0bba050781240a9",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2048-2732.jpg": "11c7edf5509195490f4e780e70106a54adec22a0",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2160-1620.jpg": "d804c3b1d8a4e8545db9fdb979b6f92e9b516635",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2208-1242.jpg": "386e6062390b9a53634611cd938b5c744a1ca26c",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2224-1668.jpg": "6952016f986cecdc2ac197cac7eed404af1012df",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2388-1668.jpg": "7ec338a996fa642e82e9152a43427621060fae73",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2436-1125.jpg": "5631ae6a6075dac6a200f9fcbe7d90fab96a3d24",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2532-1170.jpg": "6581aef7e73e57f524111d880737abc8692cea03",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2688-1242.jpg": "c845dd8c73ddcfb5fb4f050519b2092715e34994",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2732-2048.jpg": "c3520dd22012bf9eae1087fc4f3aad416e63b8e2",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-2778-1284.jpg": "8078ee931d855a6cee40310c4c30d8f70dfa3f81",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-640-1136.jpg": "31ebe792d42b466e68c284d31ae4783fc2a98798",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-750-1334.jpg": "60d147c304646de1d48195f04d4fc43617e33341",
+    "ibf2021-csf-d3-workshop/assets/icons/apple-splash-828-1792.jpg": "1958971ac924dd2d02305747363b5ff790c28a7e",
+    "ibf2021-csf-d3-workshop/assets/icons/favicon-196.png": "47cca0b6644acceb85b1fdc5bedf713fad94443e",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "ibf2021-csf-d3-workshop/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "ibf2021-csf-d3-workshop/assets/icons/manifest-icon-192.maskable.png": "668318c02b26f38788ee6b3da149e78e526a7605",
+    "ibf2021-csf-d3-workshop/assets/icons/manifest-icon-512.maskable.png": "e44f2d544c2fe495d1d3b3d1e2dd607a9b620cf2",
+    "ibf2021-csf-d3-workshop/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "ibf2021-csf-d3-workshop/index.html": "abd72d3f1177cb983ca8d93659f4baea70cba64b",
+    "ibf2021-csf-d3-workshop/main.98fab8b705646908.js": "3f6fdc196cb3d1bf2607e3e12ff874d1b7a39f8f",
+    "ibf2021-csf-d3-workshop/manifest.webmanifest": "ab69ccb093350ac55122f745c1236188cccad0b4",
+    "ibf2021-csf-d3-workshop/polyfills.1f7e111f0265f0b2.js": "1291327b1b4065ba30536f27fb2a0777300d90b7",
+    "ibf2021-csf-d3-workshop/runtime.fc535f7c8f0db24a.js": "a0f29e9eec44da1cdc3933982fbd8661ef7b9e25",
+    "ibf2021-csf-d3-workshop/styles.3f0597960bc2e56d.css": "ccd46f3803aca4e1f8db6d2bef3773d8e18f25f8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
