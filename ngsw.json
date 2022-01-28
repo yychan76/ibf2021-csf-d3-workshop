@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1643336653061,
+  "timestamp": 1643351285279,
   "index": "/ibf2021-csf-d3-workshop/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ibf2021-csf-d3-workshop/favicon.ico",
         "/ibf2021-csf-d3-workshop/index.html",
-        "/ibf2021-csf-d3-workshop/main.d8fd1688be755779.js",
+        "/ibf2021-csf-d3-workshop/main.a66d466ef6291bd7.js",
         "/ibf2021-csf-d3-workshop/manifest.webmanifest",
         "/ibf2021-csf-d3-workshop/polyfills.1f7e111f0265f0b2.js",
         "/ibf2021-csf-d3-workshop/runtime.fc535f7c8f0db24a.js",
@@ -57,16 +57,9 @@
         "/ibf2021-csf-d3-workshop/assets/icons/apple-splash-750-1334.jpg",
         "/ibf2021-csf-d3-workshop/assets/icons/apple-splash-828-1792.jpg",
         "/ibf2021-csf-d3-workshop/assets/icons/favicon-196.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-128x128.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-144x144.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-152x152.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-192x192.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-384x384.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-512x512.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-72x72.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/icon-96x96.png",
         "/ibf2021-csf-d3-workshop/assets/icons/manifest-icon-192.maskable.png",
-        "/ibf2021-csf-d3-workshop/assets/icons/manifest-icon-512.maskable.png"
+        "/ibf2021-csf-d3-workshop/assets/icons/manifest-icon-512.maskable.png",
+        "/ibf2021-csf-d3-workshop/assets/logo.svg"
       ],
       "patterns": []
     }
@@ -101,19 +94,12 @@
     "/ibf2021-csf-d3-workshop/assets/icons/apple-splash-750-1334.jpg": "60d147c304646de1d48195f04d4fc43617e33341",
     "/ibf2021-csf-d3-workshop/assets/icons/apple-splash-828-1792.jpg": "1958971ac924dd2d02305747363b5ff790c28a7e",
     "/ibf2021-csf-d3-workshop/assets/icons/favicon-196.png": "47cca0b6644acceb85b1fdc5bedf713fad94443e",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/ibf2021-csf-d3-workshop/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/ibf2021-csf-d3-workshop/assets/icons/manifest-icon-192.maskable.png": "668318c02b26f38788ee6b3da149e78e526a7605",
     "/ibf2021-csf-d3-workshop/assets/icons/manifest-icon-512.maskable.png": "e44f2d544c2fe495d1d3b3d1e2dd607a9b620cf2",
+    "/ibf2021-csf-d3-workshop/assets/logo.svg": "f77c46df3342f93e69bd5883da582f9363da3cc4",
     "/ibf2021-csf-d3-workshop/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ibf2021-csf-d3-workshop/index.html": "9ecfff015d6f4d8a2af2de0eed3c209af339a1a2",
-    "/ibf2021-csf-d3-workshop/main.d8fd1688be755779.js": "0949265a9a7fc94d0fed9e831134d1d857dab258",
+    "/ibf2021-csf-d3-workshop/index.html": "804e7052eabdca39943d979f25f8f5695d6f7c0e",
+    "/ibf2021-csf-d3-workshop/main.a66d466ef6291bd7.js": "4086c1c33ef91a45d5744713964000b414803ea6",
     "/ibf2021-csf-d3-workshop/manifest.webmanifest": "ab69ccb093350ac55122f745c1236188cccad0b4",
     "/ibf2021-csf-d3-workshop/polyfills.1f7e111f0265f0b2.js": "1291327b1b4065ba30536f27fb2a0777300d90b7",
     "/ibf2021-csf-d3-workshop/runtime.fc535f7c8f0db24a.js": "a0f29e9eec44da1cdc3933982fbd8661ef7b9e25",
